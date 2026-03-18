@@ -1,0 +1,26 @@
+# Compiled binaries
+stockserver
+stockclient
+multiclient
+
+# Documents
+*.docx
+*.pdf
+*.docx.txt
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Object files
+*.o
+*.out
+
+# Experience summaries (Korean docs)
+경험정리.md
