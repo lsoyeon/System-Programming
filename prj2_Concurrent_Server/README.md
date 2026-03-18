@@ -2,8 +2,6 @@
 
 A concurrent stock trading server implemented in C (Linux, POSIX), exploring **three concurrency architectures** and measuring their performance trade-offs with real experiments.
 
-> Built for the *Systems Programming* course. The core question: **"Is multithreading always faster than single-threaded event-driven?"** — Spoiler: No, not with a global mutex.
-
 ---
 
 ## 🏗️ Project Structure
